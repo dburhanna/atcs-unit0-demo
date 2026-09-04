@@ -1,3 +1,5 @@
+# Demonstration repository for the Advanced Topics in Computer Science Professional Software Engineering Bootcamp.
+
 # Engineering Calculator
 
 A simple Python calculator used during the
