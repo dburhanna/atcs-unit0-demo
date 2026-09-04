@@ -1,7 +1,7 @@
 # Engineering Calculator
 
 A simple Python calculator used during the
-Project Stefan Professional Software Engineering Bootcamp.
+ATCS Professional Software Engineering Bootcamp.
 
 ## Current Features
 
