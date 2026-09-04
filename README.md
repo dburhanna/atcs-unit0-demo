@@ -1,2 +1,21 @@
-# Project-Stefan
-Curriculum architecture, instructional resources, and supporting materials for the Advanced Topics in Computer Science program at St. Augustine Preparatory School.
+# Engineering Calculator
+
+A simple Python calculator used during the
+Project Stefan Professional Software Engineering Bootcamp.
+
+## Current Features
+
+- Addition
+- Subtraction
+
+## Running the Program
+
+Run:
+
+python src/calculator.py
+
+## Project Structure
+
+src/ - Python source code
+
+docs/ - Requirements and documentation
