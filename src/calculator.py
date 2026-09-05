@@ -1,8 +1,17 @@
+"""ATCS Unit 0 demonstration calculator.
+
+This program is intentionally simple so students can focus on
+professional software-engineering workflow rather than syntax.
+"""
+
+
 def add(a, b):
+    """Return the sum of a and b."""
     return a + b
 
 
 def subtract(a, b):
+    """Return b subtracted from a."""
     return a - b
 
 
