@@ -14,6 +14,10 @@ def subtract(a, b):
     """Return b subtracted from a."""
     return a - b
 
+def square(a):
+    # return a squared
+    return a*a
+
 
 def main():
     print("Engineering Calculator")
